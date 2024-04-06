@@ -21,13 +21,13 @@ This project is an example of a development environment using PostgreSQL with Do
 To start the containers:
 
 ```bash
-make up
+make start
 ```
 
 To stop the containers without removing them:
 
 ```bash
-make down
+make stop
 ```
 
 If you want to remove the containers:
@@ -44,7 +44,7 @@ The username is `admin@admin.com` and the password is `xpto`.
 
 ## Using Golang Migration
 
-If you want to use Golang Migration, please refer to [Golang Migration](GOLANG_MIGRATION.md).
+If you want to use Golang Migration app, please refer to [Golang Migration](GOLANG_MIGRATION.md).
 
 ---
 

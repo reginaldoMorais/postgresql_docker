@@ -2,7 +2,7 @@
 #==   DATABASE SETUP   ==#
 #========================#
 
-up:
+start:
 	docker compose up -d
 
 stop:

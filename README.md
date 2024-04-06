@@ -1,5 +1,7 @@
 # PostgreSQL + PgAdmin4 by Docker Compose
 
+This project is an example of a development environment using PostgreSQL with Docker, with persisted volume and data migration script.
+
 ## Summary
 
 - [PostgreSQL + PgAdmin4 by Docker Compose](#postgresql--pgadmin4-by-docker-compose)
